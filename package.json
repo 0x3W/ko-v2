@@ -33,7 +33,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-shop-homepage.git"
+        "url": "https://github.com/0x3W/ko-v2.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
